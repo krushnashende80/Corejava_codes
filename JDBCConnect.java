@@ -15,7 +15,7 @@ public class JDBCConnect {
 
             con.close();
         } catch (Exception e) {
-            e.printStackTrace();
+            e.printStackTrace();    
         }
     }
 }
