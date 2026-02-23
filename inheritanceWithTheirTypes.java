@@ -8,7 +8,7 @@
 
 // 1) Single Level Inheritance:
 class A {
-
+ 
     void name() {
         System.out.println("A : My Name is Krushna");
     }
