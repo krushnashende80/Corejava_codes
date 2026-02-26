@@ -8,7 +8,7 @@ public class strings {
         name = name.toUpperCase();
         System.out.println(name);
         //toUpperCase to toLoweCase conversion
-        String name1 = "KRUSHNA";
+        String name1 = "KRUSHNA"; 
         name1 = name1.toLowerCase();
         System.out.println(name1); //output will be small letter like:"krushna"
 
