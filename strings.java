@@ -1,6 +1,6 @@
 public class strings {
     public static void main(String[] args) {
-
+   
         String name = "java";   
         name.toUpperCase();
         System.out.println(name);//output will be "java"
@@ -46,4 +46,5 @@ public class strings {
         System.out.println(r2);
     }
 }
+
 
