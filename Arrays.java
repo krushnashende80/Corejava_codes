@@ -1,7 +1,7 @@
 public class Arrays {
    public static void main(String[] args) {
        int[][] arr = new int[3][];
-       arr[0]=new int[]{11,12,13,14};
+       arr[0]=new int[]{11,12,13,14};   
        arr[1]=new int[]{15,16,17,18};
        arr[2]=new int[]{19,20,21,22};
 
