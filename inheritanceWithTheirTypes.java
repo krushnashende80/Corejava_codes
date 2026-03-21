@@ -3,7 +3,7 @@
 // 2) Multi Level Inheritance
 // 3) Hierarchical Inheritance
 // 4) Multiple Inheritance  
-// 5) Hybrid Inheritance   
+// 5) Hybrid Inheritance      
 // but in Java we usually Use only first three below their Examples-
 
 // 1) Single Level Inheritance:
