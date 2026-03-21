@@ -1,7 +1,7 @@
 // - in Java there are 5 types of Inheritance
 // 1) Single Level Inheritance
 // 2) Multi Level Inheritance
-// 3) Hierarchical Inheritance
+// 3) Hierarchical Inheritance        
 // 4) Multiple Inheritance  
 // 5) Hybrid Inheritance      
 // but in Java we usually Use only first three below their Examples-
