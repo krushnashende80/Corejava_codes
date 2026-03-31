@@ -2,7 +2,7 @@ public class strings {
     public static void main(String[] args) {
    
         String name = "java";      
-        name.toUpperCase();
+        name.toUpperCase();   
         System.out.println(name);//output will be "java"
         // if we want be change string small to CAPITLA like name = "JAVA" the code should be update below:
         name = name.toUpperCase();
