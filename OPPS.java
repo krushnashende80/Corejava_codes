@@ -1,7 +1,7 @@
 //paremeter constructor;
 
 class Student{
-    String name; 
+    String name;     
     String school;
     int age;    
     int id;  
