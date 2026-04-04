@@ -3,7 +3,7 @@
 class Student{
     String name;     
     String school;
-    int age;    
+    int age;       
     int id;  
 
     Student(String name,String school,int age,int id) {
