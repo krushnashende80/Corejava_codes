@@ -4,7 +4,7 @@ public class HCF {
 
         int hcf = getHCF(num1,num2);               
         System.out.println(" THE HCF IS " + hcf);      
-  
+     
         int lcm = (num1 * num2) / hcf;      
         System.out.println(" The LCM number is " + lcm);
 
