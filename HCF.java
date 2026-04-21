@@ -2,7 +2,7 @@ public class HCF {
     public static void main(String[] args) {
         int num1 = 23,num2 = 52;
 
-        int hcf = getHCF(num1,num2);    
+        int hcf = getHCF(num1,num2);        
         System.out.println(" THE HCF IS " + hcf);      
   
         int lcm = (num1 * num2) / hcf;
