@@ -7,7 +7,7 @@ class Student{
     int id;           
 
     Student(String name,String school,int age,int id) {
-        this.name = name;
+        this.name = name;   
         this.school = school;
         this.age = age;
         this.id = id;
