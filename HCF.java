@@ -1,4 +1,4 @@
-public class HCF {v
+public class HCF {
     public static void main(String[] args) {
         int num1 = 23,num2 = 52;
 
