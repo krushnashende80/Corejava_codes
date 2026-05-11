@@ -12,7 +12,7 @@ public class Arrays {
             }
            System.out.println();
        }
-
+ 
    }
 }
 we can write (row) fix but (colum) not fix its possible in java:
