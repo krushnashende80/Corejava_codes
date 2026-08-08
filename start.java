@@ -6,4 +6,4 @@ public class start{
          System.out.print(str.charAt(i));
         }
     }
-}
+}  
